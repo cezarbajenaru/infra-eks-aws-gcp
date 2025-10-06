@@ -1,0 +1,13 @@
+{
+    "Objects": [
+        {
+            "Key": "aws/networking/terraform.tfstate",
+            "VersionId": "qUVeXHsUc7.JhSivoIyf7Pqz40BGo29C"
+        },
+        {
+            "Key": "aws/networking/terraform.tfstate",
+            "VersionId": "0d7Z.p1KjcGphEQ_66tAwilQXzQ5yAWl"
+        }
+    ],
+    "DeleteMarkers": null
+}
